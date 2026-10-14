@@ -1,0 +1,11 @@
+---
+name: cartoonskill
+description: Transform a photograph into a vertical split diptych pairing the original photo on the bottom with a warm, hand-drawn color marker cartoon illustration and a short handwritten English quote on textured cream paper on top. Use when the user wants to create a hand-drawn cartoon diptych, sketch-and-photo split card, or illustrated story visual from a photo using cartoonskill.
+---
+Title: Cartoon Skill
+Overview: Transform a photograph into an editorial vertical split diptych that pairs the untouched original photograph in the bottom half with a warm, hand-drawn brush-and-marker cartoon illustration and a short handwritten English reflection on textured cream paper in the top half.
+Core Requirements and Steps:
+1. Vertical Split Diptych Layout: Construct a vertical two-panel composition (top half and bottom half). Keep the original photograph completely intact in the bottom half without altering its subjects, background, colors, or lighting. Fill the top half with a warm cream handmade paper background (#ECE8DF) with subtle paper grain texture and generous negative space.
+2. 2. Subject Analysis and Alignment: Identify the main subject(s) in the original photo (posture, facial expression, hand gestures, attire, and key colors). Position the illustrated subject in the top panel directly above the real subject in the bottom photo to create a visual dialogue.
+   3. 3. Hand-Drawn Marker and Brush-Pen Illustration: Render the subject in the top panel using loose, expressive colored marker and brush-pen strokes in a warm folk-art / picture-book sketch style. Mirror the original pose, costume patterns, and signature color palette (such as vermilion red, ochre gold, mineral blue, olive green, and charcoal outlines) while simplifying complex details into charming cartoon features. Keep the background of the top panel clean cream paper without redrawing background clutter.
+      4. 4. Handwritten English Quote: Add a short, two-line poetic or philosophical English quote (6-12 words, such as "Stand firm. Leave room for kindness." or "Guard what is good, with a brave heart.") that matches the mood and character of the subject, written in casual black ink handwriting in the open space above or beside the illustration.
